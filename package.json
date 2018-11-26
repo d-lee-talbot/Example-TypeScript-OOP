@@ -1,0 +1,12 @@
+{
+  "name": "oop_in_typescript",
+  "version": "1.0.0",
+  "description": "Implementation of encapsulation, polymorphism, and inheritance in TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node out/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dayna Lee Talbot",
+  "license": "MIT"
+}
